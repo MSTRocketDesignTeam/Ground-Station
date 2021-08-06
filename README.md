@@ -16,7 +16,7 @@ Initial developments of this system is to replace the need for a laptop and powe
 # Features
 
 #### Physical
-*Hard Case
+* Hard Case
 
 #### Primary Components
 
