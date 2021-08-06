@@ -20,10 +20,10 @@ Initial developments of this system is to replace the need for a laptop and powe
 
 #### Primary Components
 
-*Raspberry pi 4
-*Ethernet to WIFI Adapter
-*Moniter
-*12v Dc to 120v Ac Power Converter
+* Raspberry pi 4
+* Ethernet to WIFI Adapter
+* Moniter
+* 12v Dc to 120v Ac Power Converter
 
 
 
